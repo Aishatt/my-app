@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          IDE env debugging
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sebhastian.com/npm-err-enoent/?utm_content=cmp-true"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click to See how it worked out for me.
         </a>
       </header>
     </div>
